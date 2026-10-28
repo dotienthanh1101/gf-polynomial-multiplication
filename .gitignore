@@ -1,0 +1,5 @@
+gf_multiply
+test_gf2n
+*.exe
+*.o
+build/
